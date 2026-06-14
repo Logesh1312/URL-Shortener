@@ -131,3 +131,6 @@ BASE_URL=http://localhost:5000
 ```
 VITE_BASE_URL=http://localhost:5000
 ```
+YouTube:
+https://youtu.be/E7boZAv8Pq8?si=JyNXK10aVH5oS5Qz
+
